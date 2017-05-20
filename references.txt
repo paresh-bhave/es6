@@ -1,0 +1,6 @@
+
+http://es6-features.org/
+
+http://tc39wiki.calculist.org/es6/
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/ECMAScript_2015_support_in_Mozilla
